@@ -1,4 +1,4 @@
-## Kimya Adam Asmaca Oyunu - README-tr.md
+## Kimya Adam Asmaca Oyunu - README.md
 
 ### Açıklama
 Merhaba! Bu projede sizlerle, Python programlama dili ve Pygame kütüphanesini kullanarak geliştirdiğim "Kimya Adam Asmaca Oyunu"nu paylaşıyorum. Bu oyun, klasik adam asmaca oyununun temel prensiplerine dayanmaktadır, ancak kelime havuzumuz kimya ile ilgili terimlerden oluşmaktadır. Oyuncuların, kimya alanında kelimeleri tahmin etmeye çalışarak bilgilerini test etmeleri ve aynı zamanda eğlenmeleri amaçlanmıştır.
