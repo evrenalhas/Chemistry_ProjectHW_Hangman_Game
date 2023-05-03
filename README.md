@@ -17,8 +17,8 @@ Merhaba! Bu projede sizlerle, Python programlama dili ve Pygame kütüphanesini 
 4) `py hangman.py` komutunu kullanarak oyunu başlatın.
 
 ### İletişim Bilgisi
-• Instagram: @evrenalhas
-• LinkedIn: https://www.linkedin.com/in/evrenalhas/
+• Instagram: @evrenalhas  
+• LinkedIn: https://www.linkedin.com/in/evrenalhas/  
 • Mail: evrenalhas@gmail.com
 
 Ayrıca techwithtim'e kibar tutumu ve kodundan faydalanmama izin verdiği için teşekkür ediyorum.
