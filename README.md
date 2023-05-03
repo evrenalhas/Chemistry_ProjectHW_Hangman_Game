@@ -16,6 +16,8 @@ Merhaba! Bu projede sizlerle, Python programlama dili ve Pygame kütüphanesini 
 3) Terminal veya komut satırı aracılığıyla projenin bulunduğu klasöre gidin.
 4) `py hangman.py` komutunu kullanarak oyunu başlatın.
 
+Ayrıca techwithtim'e kibar tutumu ve kodundan faydalanmama izin verdiği için teşekkür ediyorum.
+
 Umarım bu oyunu oynarken keyifli vakit geçirir ve kimya bilginizi geliştirirsiniz. İyi eğlenceler!
 
 ~Şeyhmus Evren Alhas
