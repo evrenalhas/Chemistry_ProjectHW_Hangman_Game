@@ -17,9 +17,9 @@ Hello! In this project, I am sharing the "Chemistry Hangman Game" that I develop
 4) Start the game using the command `py hangman.py`.
 
 ### Contact Info
-Instagram: @evrenalhas
-LinkedIn: https://www.linkedin.com/in/evrenalhas/
-Mail: evrenalhas@gmail.com
+• Instagram: @evrenalhas
+• LinkedIn: https://www.linkedin.com/in/evrenalhas/
+• Mail: evrenalhas@gmail.com
 
 Also special thanks to techwithtim for his kind behaviour and letting me benefit his code!
 
